@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(214, 202, 226);
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    color: rgb(25, 1, 48);
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    gap: 5px;
+    color: rgb(25, 1, 48);
+}
